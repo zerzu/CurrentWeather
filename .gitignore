@@ -9,7 +9,8 @@
 *.user
 *.userosscache
 *.sln.docstates
-\CurrentWeather\appsettings.json
+CurrentWeather/CurrentWeather
+/appsettings.json
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
